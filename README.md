@@ -1,0 +1,2 @@
+# step-satu
+Latihan pertama
